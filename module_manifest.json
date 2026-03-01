@@ -1,0 +1,54 @@
+{
+  "course_title": "MS Word Mastery",
+  "modules": [
+    {
+      "module_number": 1,
+      "module_title": "Getting Started & Home Tab Basics",
+      "lessons": [
+        { "id": "1.1", "title": "File tab", "video": "https://www.youtube.com/watch?v=ajXkwIPjBKI" },
+        { "id": "1.2", "title": "Home clipboard", "video": "https://www.youtube.com/watch?v=N2oQHKct6Ks" },
+        { "id": "1.3", "title": "Home font", "video": "https://www.youtube.com/watch?v=PqJrxg6kr7E" }
+      ],
+      "study_guide": "Module1/study_guide.md"
+    },
+    {
+      "module_number": 2,
+      "module_title": "Home Tab Formatting & Styles",
+      "lessons": [
+        { "id": "2.1", "title": "Home Paragraph 1", "video": "https://www.youtube.com/watch?v=FJ7AMuACm90" },
+        { "id": "2.2", "title": "Home Paragraph 2", "video": "https://www.youtube.com/watch?v=MAyMwPMKvoE" },
+        { "id": "2.3", "title": "Home styles", "video": "https://www.youtube.com/watch?v=ElQdYCxa6bE" },
+        { "id": "2.4", "title": "Home Editing", "video": "https://www.youtube.com/watch?v=H2n3Q-bQ-lA" }
+      ]
+    },
+    {
+      "module_number": 3,
+      "module_title": "Insert Tab Features",
+      "lessons": [
+        { "id": "3.1", "title": "Insert Part 1", "video": "https://www.youtube.com/watch?v=bDtWEOvs078" },
+        { "id": "3.2", "title": "Insert Part 2", "video": "https://www.youtube.com/watch?v=iVdtlMCFeyk" },
+        { "id": "3.3", "title": "Insert Part 3", "video": "https://www.youtube.com/watch?v=_ue6-YsduHs" },
+        { "id": "3.4", "title": "Insert Part 4", "video": "https://www.youtube.com/watch?v=DVnZ0HYW8mA" },
+        { "id": "3.5", "title": "Insert Part 5", "video": "https://www.youtube.com/watch?v=5aBH81W1kDs" },
+        { "id": "3.6", "title": "Insert Page Numbering", "video": "https://www.youtube.com/watch?v=UQHp3S-WD1U" }
+      ]
+    },
+    {
+      "module_number": 4,
+      "module_title": "Document Design & Layout",
+      "lessons": [
+        { "id": "4.1", "title": "Design tab", "video": "https://www.youtube.com/watch?v=WG0MKgu4jMw" },
+        { "id": "4.2", "title": "Page Layout tab", "video": "https://www.youtube.com/watch?v=x3s3Kd8FzQA" },
+        { "id": "4.3", "title": "Reference tab", "video": "https://www.youtube.com/watch?v=AQthaXyIs4I" }
+      ]
+    },
+    {
+      "module_number": 5,
+      "module_title": "Review & Finalization",
+      "lessons": [
+        { "id": "5.1", "title": "Review & View tabs", "video": "https://www.youtube.com/watch?v=w2ceE3XABBE" },
+        { "id": "5.2", "title": "Finalizing MS Word", "video": "https://www.youtube.com/watch?v=YXa0MygCEzc" }
+      ]
+    }
+  ]
+}
